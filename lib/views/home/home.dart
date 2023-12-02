@@ -73,7 +73,7 @@ class Home extends StatelessWidget {
               viewportFraction: 1.0,
               itemBuilder: (context, index){
               return pages[index];
-              }),
+              } ),
           // Row(
           //   children: [
           //     Column(
